@@ -4,6 +4,12 @@ title: "Rafael de Fazio | Senior Data Engineer"
 theme: "PaperMod"
 enableRobotsTXT: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+    
 params:
   author: "Rafael de Fazio"
   description: "Senior Data Engineer with over 5 years of experience in delivering cloud-based data solutions."
