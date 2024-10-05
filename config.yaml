@@ -15,9 +15,9 @@ menu:
   - identifier: home
     name: Home
     url: /
-  - identifier: posts
+  - identifier: blog
     name: Blog
-    url: /posts/
+    url: /blog/
   - identifier: contact
     name: Contact
     url: /contact/
