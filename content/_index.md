@@ -30,9 +30,9 @@ I'm a **Senior Data Engineer** with over 5 years of experience in delivering clo
 
 - **Revenue Ticket Process Automation (to Salesforce):** Designed and developed ETL processes to automate revenue ticket entries, reducing manual errors and ensuring data integrity.
 
-- **Cron to Airflow Migration:** Spearheaded migration from time-based cron scheduling to Apache Airflow workflow management. Migrated VMs to orchestrated containers to enhance ETL reliability and flexibility. Designed and documented data pipeline, Git Flow process, and CI/CD architecture.
+- **Cron to Airflow Migration:** Spearhead migration from time-based cron scheduling to Apache Airflow workflow management. Migrate VMs to orchestrated containers to enhance ETL reliability and flexibility. Designe and documented data pipeline, Git Flow process, and CI/CD architecture.
 
-- **Data Unification for End Users Portal:** Led requirements gathering, design, and documentation for a new reporting and monitoring portal for end users. Managed tasks to ensure integration met expectations. Delegated tasks based on priority, individual skills, and seniority levels.
+- **Data Unification for End Users Portal:** Lead requirements gathering, design, and documentation for integrations of a new reporting and monitoring portal for end users. Manage tasks to ensure integration met expectations. Delegate tasks based on priority, individual skills, and seniority levels.
 
 ### **LexisNexis Risk Solutions** *(Remote / Brazil)*
 
