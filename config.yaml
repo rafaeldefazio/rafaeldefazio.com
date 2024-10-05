@@ -10,6 +10,18 @@ outputs:
     - RSS
     - JSON # necessary for search
     
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+  - identifier: posts
+    name: Blog
+    url: /posts/
+  - identifier: contact
+    name: Contact
+    url: /contact/
+
 params:
   author: "Rafael de Fazio"
   description: "Senior Data Engineer with over 5 years of experience in delivering cloud-based data solutions."
