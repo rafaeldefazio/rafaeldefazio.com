@@ -48,13 +48,22 @@ I'm a **Senior Data Engineer** with over 5 years of experience in delivering clo
 ### **Ribeirão Preto Medical School** *(Ribeirão Preto, SP / Brazil)*
 
 **Data Engineer / Researcher**  
-*Jun. 2019 – Dec. 2023*
+*Jun. 2018 – Nov. 2023*
 
 - Analyzed and cleaned over 33 thousand hours of time series data from more than 200 triaxial accelerometers.
 - Engineered over 100 features for said accelerometers.
 - Designed data models for time series results, mobile app, and questionnaires to support research.
 - Developed RESTful APIs for user authentication and logging.
 - Trained machine learning models using both deep learning and traditional methods.
+- Developed a personal health assistant with an emphasis on open source tools.
+
+### **In Situ Cell Therapy (Health Startup)** *(Ribeirão Preto, SP / Brazil)*
+
+**Back End Developer (R&D) intern**  
+*Jul. 2019 – May. 2021*
+
+- Developed web app using GCP cloud services (Ionic 5, GCP Firebase).
+- Developed wound evolution monitoring software MVP (Python, OpenCV, PyQT5).
 
 ## **Education 🎓**
 
