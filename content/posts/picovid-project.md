@@ -1,6 +1,6 @@
 ---
 title: "Celebrating PICOVID: Making COVID-19 Data Accessible for Everyone 🌐"
-date: 2024-10-05T10:00:00Z
+date: 2024-10-05T13:10:00Z
 description: "A big thank you!"
 tags: ["Nonprofit", "Data Engineering", "COVID-19", "Community Impact", "DigitalOcean"]
 categories: ["Tech", "Community"]
