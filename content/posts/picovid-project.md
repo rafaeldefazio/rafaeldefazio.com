@@ -7,7 +7,7 @@ categories: ["Tech", "Community"]
 draft: false
 ---
 
-If you have a social or nonprofit project, consider applying for programs like [DigitalOcean's Hub For Good](https://www.digitalocean.com/hub-for-good)! 🌟
+If you have a social or nonprofit project, consider applying for programs like [DigitalOcean's Hub For Good]([https://www.digitalocean.com/hub-for-good](https://www.digitalocean.com/community/pages/hollies-hub-for-good))! 🌟
 
 During the pandemic, DigitalOcean generously granted the PICOVID project more than $1,000 worth of cloud credits through the Hub For Good Program. THANK YOU! 🙏 This support was instrumental in keeping our project alive and making a real difference.
 
