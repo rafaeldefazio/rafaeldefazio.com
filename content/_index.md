@@ -57,7 +57,7 @@ I'm a **Senior Data Engineer** with over 5 years of experience in delivering clo
 
 ## **Languages & Certifications 🌐**
 
-- **Languages:** English (C1 Advanced), Portuguese (Native), Spanish (Basic)
+- **Languages:** English (C2 Proficient), Portuguese (Native), Spanish (Basic)
 - **Certifications:** GCP - Cloud Digital Leader
 
 ## **Blog 📝**
