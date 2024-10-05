@@ -1,4 +1,4 @@
-baseURL: "https://rafaeldefazio.com/"
+baseURL: "https://yourdomain.com/"
 languageCode: "en-us"
 title: "Rafael de Fazio | Senior Data Engineer"
 theme: "PaperMod"
@@ -7,27 +7,36 @@ enableRobotsTXT: true
 params:
   author: "Rafael de Fazio"
   description: "Senior Data Engineer with over 5 years of experience in delivering cloud-based data solutions."
-  keywords: "Data Engineer, Python, SQL, ETL, Cloud, Big Data, Machine Learning, CI/CD, DevOps"
+  keywords:
+    - Data Engineer
+    - Python
+    - SQL
+    - ETL
+    - Cloud
+    - Big Data
+    - Machine Learning
+    - CI/CD
+    - DevOps
   colorPalette: "light"
 
-menu:
-  main:
-    - name: "Home"
-      url: "/"
-      weight: 1
-    - name: "Blog"
-      url: "/blog/"
-      weight: 2
-    - name: "Contact"
-      url: "/contact/"
-      weight: 3
+  menu:
+    main:
+      - name: "Home"
+        url: "/"
+        weight: 1
+      - name: "Blog"
+        url: "/blog/"
+        weight: 2
+      - name: "Contact"
+        url: "/contact/"
+        weight: 3
 
-social:
-  linkedin: "https://linkedin.com/in/rafaelbdefazio"
-  email: "rafaelbdefazio@gmail.com"
-  github: "https://github.com/yourgithubusername"
+  social:
+    linkedin: "https://linkedin.com/in/rafaelbdefazio"
+    email: "rafaelbdefazio@gmail.com"
+    github: "https://github.com/yourgithubusername"
 
-home:
-  showInfo: true
-  showResume: true
-  showBlog: true
+  home:
+    showInfo: true
+    showResume: true
+    showBlog: true
