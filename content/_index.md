@@ -5,13 +5,7 @@ description: "Senior Data Engineer passionate about building efficient data solu
 
 ## **About Me**
 
-São Paulo, Brazil 🇧🇷
-
-📞 +55 17 98222-9206
-
-📧 [rafaelbdefazio@gmail.com](mailto:rafaelbdefazio@gmail.com)
-
-[LinkedIn](https://linkedin.com/in/rafaelbdefazio)
+Brazil 🇧🇷 | 📞 +55 17 98222-9206 | 📧 [rafaelbdefazio@gmail.com](mailto:rafaelbdefazio@gmail.com) | [LinkedIn](https://linkedin.com/in/rafaelbdefazio)
 
 I'm a **Senior Data Engineer** with over 5 years of experience in delivering cloud-based data solutions. I specialize in orchestrating complex data migrations, designing efficient data models, and building robust data pipelines to drive business success. Whether working remotely with international teams or leading system integrations, I thrive in dynamic environments and love tackling challenging problems. Skilled in communication, planning, documentation, and liaising between stakeholders to ensure seamless project execution.
 
