@@ -7,7 +7,7 @@ description: "Get in touch with me for collaborations, opportunities, or just a 
 
 I'd love to hear from you! Whether you have a question, a project in mind, or just want to connect, feel free to reach out through any of the platforms below.
 
-- **Email:** [rafaelbdefazio@gmail.com](mailto:hi@rafaeldefazio.com)
+- **Email:** [hi@rafaeldefazio.com](mailto:hi@rafaeldefazio.com)
 - **LinkedIn:** [linkedin.com/in/rafaelbdefazio](https://linkedin.com/in/rafaelbdefazio)
 - **GitHub:** [github.com/rafaeldefazio](https://github.com/rafaeldefazio)
 
